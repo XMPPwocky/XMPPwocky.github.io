@@ -2,3 +2,10 @@ name: "XMPPwocky"
 description: ""
      
 url: "blog.xmppwocky.net"
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
